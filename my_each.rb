@@ -6,4 +6,4 @@ def my_each(array)
     index+=1
   end
   array
-end	end
+end	
